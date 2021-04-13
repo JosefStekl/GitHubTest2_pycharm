@@ -21,4 +21,6 @@ if __name__ == '__main__':
     print(my_function(2, 4))
 
     x = 3
+
+    print(x)
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
