@@ -17,6 +17,7 @@ def my_function(a, b):
 if __name__ == '__main__':
     print_hi('World')
     print("Where do you live?")
+    print("PogO")
 
     print(my_function(2, 4))
 
